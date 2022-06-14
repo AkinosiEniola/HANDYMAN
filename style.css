@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.orange-bg{
+    background-color: #F18F01;
+    color: #fefefe;
+    width: 100%;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 48px;
+}
+.list1{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.list-item{
+    padding: 12px;
+    align-items: center;
+}
+.nav-right{
+    background-color: #fefefe;
+    pad: 24px;
+}
+.two{
+    color: #051951;
+    padding-right: 60px;
+    font-weight: 24px;
+}
+.blue-bg{
+    background-color: #051951;
+    color: #fefefe;
+    padding: 24px;
+}
+.three{
+    padding: 10px;
+}
+.para{
+    padding-left: 24px;
+    padding-top: 12px;
+}
+.three{
+    padding-top: 20px;
+}
+.graph{
+    padding-left: 8px;
+    padding-top: 0;
+}
